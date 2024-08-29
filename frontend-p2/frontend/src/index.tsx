@@ -13,6 +13,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
+    <h1>lovely lovely lovely lovely lovely lovely lovely</h1>
     <BrowserRouter>
       <App />
     </BrowserRouter>
