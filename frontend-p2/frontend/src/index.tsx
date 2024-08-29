@@ -14,7 +14,6 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <BrowserRouter>
-      <h1>Readum and weep losers!!!!!!!!!!</h1>
       <App />
     </BrowserRouter>
   </React.StrictMode>
