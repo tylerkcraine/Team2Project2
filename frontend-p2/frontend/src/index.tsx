@@ -14,7 +14,6 @@ const root = ReactDOM.createRoot(
 root.render(
   <h1></h1>
   <React.StrictMode>
-    <h1>lovely lovely lovely lovely lovely lovely lovely</h1>
     <BrowserRouter>
       <App />
     </BrowserRouter>
