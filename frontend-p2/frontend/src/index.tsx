@@ -12,6 +12,7 @@ const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
+  <h1></h1>
   <React.StrictMode>
     <h1>lovely lovely lovely lovely lovely lovely lovely</h1>
     <BrowserRouter>
