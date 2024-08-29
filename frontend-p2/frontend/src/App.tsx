@@ -21,6 +21,7 @@ const App: React.FC = () => {
   return (
     <div className={`app-container ${darkMode ? 'dark-theme' : 'light-theme'}`}>
       <Navbar />
+      <p>Hello World</p>
       <main className="">
         <Routes>
           <Route path="/" element={<AuthSelector/>}/>
